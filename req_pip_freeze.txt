@@ -1,0 +1,70 @@
+appdirs==1.4.4
+appnope==0.1.0
+APScheduler==3.6.3
+backcall==0.2.0
+backports.entry-points-selectable==1.1.0
+backports.zoneinfo==0.2.1
+CacheControl==0.12.6
+cachetools==4.2.2
+cachy==0.3.0
+certifi==2020.6.20
+chardet==3.0.4
+cleo==0.8.1
+clikit==0.6.2
+colorama==0.4.4
+crashtest==0.3.1
+decorator==4.4.2
+distlib==0.3.2
+filelock==3.0.12
+html5lib==1.1
+idna==2.8
+importlib-metadata==1.7.0
+importlib-resources==5.2.2
+ipykernel @ file:///opt/concourse/worker/volumes/live/43eaf185-e9cd-4e78-5afa-c19accf1339d/volume/ipykernel_1596206683810/work/dist/ipykernel-5.3.4-py3-none-any.whl
+ipython @ file:///opt/concourse/worker/volumes/live/8c453bb6-500b-4747-778c-a236ae4a574d/volume/ipython_1593447395779/work
+ipython-genutils==0.2.0
+jedi @ file:///opt/concourse/worker/volumes/live/6806909a-570d-4af7-44c0-77bee22df359/volume/jedi_1611333753991/work
+jupyter-client @ file:///tmp/build/80754af9/jupyter_client_1601311786391/work
+jupyter-core==4.6.3
+keyring==21.8.0
+lockfile==0.12.2
+lxml==4.4.1
+mkl-fft==1.3.0
+mkl-random==1.0.4
+mkl-service==2.3.0
+msgpack==1.0.2
+numpy==1.17.2
+packaging==20.9
+pandas==1.0.3
+parso @ file:///tmp/build/80754af9/parso_1596826841367/work
+pastel==0.2.1
+pexpect==4.8.0
+pickleshare==0.7.5
+pkginfo==1.7.1
+platformdirs==2.3.0
+poetry==1.1.9
+poetry-core==1.0.5
+prompt-toolkit @ file:///tmp/build/80754af9/prompt-toolkit_1602688806899/work
+ptyprocess==0.6.0
+Pygments @ file:///tmp/build/80754af9/pygments_1600458456400/work
+pylev==1.4.0
+pyparsing==2.4.7
+python-dateutil==2.8.0
+python-telegram-bot==13.7
+pytz==2019.2
+pyzmq==19.0.2
+requests==2.22.0
+requests-toolbelt==0.9.1
+rightmove-webscraper==1.0.2
+shellingham==1.4.0
+six==1.12.0
+telegram-send==0.25
+tomlkit==0.7.2
+tornado==6.1
+traitlets==4.3.3
+tzlocal==3.0
+urllib3==1.25.6
+virtualenv==20.8.0
+wcwidth @ file:///tmp/build/80754af9/wcwidth_1593447189090/work
+webencodings==0.5.1
+zipp==3.5.0
